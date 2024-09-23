@@ -1,0 +1,40 @@
+{
+  "name": "java-fullstack-portfolio",
+  "version": "1.0.0",
+  "description": "Portfolio for a Java Full Stack Developer",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "react-scripts start"
+
+  },
+  "keywords": [
+    "portfolio",
+    "react",
+    "java",
+    "full-stack"
+  ],
+  "author": "John Doe",
+  "license": "MIT",
+  "dependencies": {
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
+    "react-scripts": "5.0.1",
+    "react-icons": "^4.8.0",  
+    "web-vitals": "^2.1.4"
+  },
+  "devDependencies": {
+    "eslint": "^8.23.0"
+  },
+  "browserslist": {
+    "production": [
+      ">0.2%",
+      "not dead",
+      "not op_mini all"
+    ],
+    "development": [
+      "last 1 chrome version",
+      "last 1 firefox version",
+      "last 1 safari version"
+    ]
+  }
+}
